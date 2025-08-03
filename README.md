@@ -35,12 +35,11 @@ This repository chronicles my step‑by‑step journey through the IBM Data Scie
 ├── 08-Data-Visualization/
 ├── 09-Machine-Learning/
 └── 10-Applied-Data-Science-Capstone/
-
+```
 ---
 
-🚀 Getting Started
-🛠️ Prerequisites
-Make sure you have the following installed:
+Prerequisites
+
 📦 Clone the Repository
 
 git clone https://github.com/sam-913/IBM-Data-Science-Journey.git
@@ -50,11 +49,7 @@ cd IBM-Data-Science-Journey
 
 🚴 Run the Notebooks
 
-jupyter notebook
-
-Python 3.7+
-
-Jupyter Notebook or JupyterLab
-
-Required libraries:
-pip install pandas numpy matplotlib seaborn scikit-learn sqlalchemy plotly notebook
+- Python 3.7+
+- Jupyter Notebook or JupyterLab
+- Required libraries:
+    pip install pandas numpy matplotlib seaborn scikit-learn sqlalchemy plotly notebook
