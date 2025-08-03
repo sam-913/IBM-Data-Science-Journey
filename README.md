@@ -53,3 +53,18 @@ cd IBM-Data-Science-Journey
 - Jupyter Notebook or JupyterLab
 - Required libraries:
     pip install pandas numpy matplotlib seaborn scikit-learn sqlalchemy plotly notebook
+
+---
+
+📚 Certificate
+
+This project is part of the official IBM Data Science Professional Certificate offered via Coursera.
+
+👩‍💻 Samriddhi Sharma
+Aspiring Data Scientist | Engineer | Artist | Learner
+
+Feel free to ⭐ this repo if you find it helpful or inspiring!
+
+"Data is the new oil, and curiosity is your drill." 🛠️
+
+
